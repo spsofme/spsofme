@@ -2,7 +2,7 @@
 
 ### İletişim
 
-![Dsicrod](https://img.shields.io/badge/Discord-spsofme%238903-blue) <br>
+[![Dsicrod](https://img.shields.io/badge/Discord-spsofme%238903-blue)](https://discord.com/users/389498474401366016) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kerim%20Er-blue)](https://www.linkedin.com/in/kerim-er-56b205223)
 
 ---
